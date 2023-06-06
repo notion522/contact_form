@@ -60,7 +60,7 @@ form input,form textarea{
 
 form button{
     padding: 15px;
-    background-color:transparent;
+    background-color:rgb(25, 55, 49);
     font-family: 'Marcellus';
     color: rgb(225, 237, 232);
     font-size: 18px;
