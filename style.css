@@ -60,9 +60,9 @@ form input,form textarea{
 
 form button{
     padding: 15px;
-    background-color:rgb(12, 58, 10);
+    background-color:transparent;
     font-family: 'Marcellus';
-    color: rgb(240, 255, 248);
+    color: rgb(225, 237, 232);
     font-size: 18px;
     border: 0;
     outline: none;
